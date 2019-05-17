@@ -1,0 +1,5 @@
+x:           42.00
+y:           84.8
+type:        supernova
+n:           1000
+epsilon:     0.0001

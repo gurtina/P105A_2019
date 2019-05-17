@@ -1,0 +1,5 @@
+type:        star
+n:           100
+x:           10.2
+y:           0.065
+epsilon:     0.0001
